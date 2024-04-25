@@ -1,6 +1,8 @@
 # Shoe Shop
 
-"Experience the essence of simplicity with the Nike shoe-centric e-commerce app. Explore a curated selection of the finest Nike footwear, seamlessly add items to your cart, and effortlessly remove them. With a clean and intuitive user interface, indulge in a smooth shopping journey tailored for your convenience."
+Experience the essence of simplicity with the Nike shoe-centric e-commerce app.
+Explore a curated selection of the finest Nike footwear, seamlessly add items to your cart, and
+effortlessly remove them. With a clean and intuitive user interface, indulge in a smooth shopping journey tailored for your convenience.
 
 <img src="https://github.com/WednesdaySP/ShoeShop/assets/122176467/80813719-fa84-4b24-9f64-c9dd35a8f910" width="300">
 
