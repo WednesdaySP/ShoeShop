@@ -2,7 +2,6 @@
 
 
 ![nike1](https://github.com/WednesdaySP/ShoeShop/assets/122176467/80813719-fa84-4b24-9f64-c9dd35a8f910)
-
 ![nike2](https://github.com/WednesdaySP/ShoeShop/assets/122176467/f60e6385-1772-43cf-a4ed-2806c8ad16c8)
 ![nike3](https://github.com/WednesdaySP/ShoeShop/assets/122176467/27b5dcfa-8941-40b5-8afb-d74551043725)
 ![nike4](https://github.com/WednesdaySP/ShoeShop/assets/122176467/9b488a6c-b8d5-4cdc-88a0-3b82be9d9f9d)
